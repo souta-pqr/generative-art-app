@@ -1,2 +1,1 @@
-# generative-art-app
-sample app
+(アプリを開く)[https://souta-pqr.github.io/generative-art-app/]
