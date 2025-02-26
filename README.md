@@ -1,1 +1,1 @@
-(アプリを開く)[https://souta-pqr.github.io/generative-art-app/]
+[アプリを開く](https://souta-pqr.github.io/generative-art-app/)
